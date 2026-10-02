@@ -1,0 +1,45 @@
+{
+  "说明": "多仓聚合清单（2026-10-02 实测更新，含全网+GitHub双通道搜索结果）。仅保留当时实测可用的源；字段名以播放器配置规范为准；子源属网友维护，随时可能失效。",
+  "urls": [
+    {
+      "name": "小盒子多仓(推荐,已聚合多源)",
+      "url": "http://xhztv.top/dc"
+    },
+    {
+      "name": "小盒子4K",
+      "url": "http://xhztv.top/4k.json"
+    },
+    {
+      "name": "肥猫",
+      "url": "http://肥猫.net/"
+    },
+    {
+      "name": "拾光多仓",
+      "url": "http://xmbjm.fh4u.org/dc.txt"
+    },
+    {
+      "name": "挺好分享多仓",
+      "url": "http://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "name": "香雅情(raw直连)",
+      "url": "https://cdn.jsdelivr.net/gh/xyq254245/xyqonlinerule@main/XYQTVBox.json"
+    },
+    {
+      "name": "XJ多仓(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/xiongjian83/TvBox@main/XJ.json"
+    },
+    {
+      "name": "19多仓spider(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/xiongjian83/TvBox@main/19.json"
+    },
+    {
+      "name": "高天流云系列(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/amazonjdshop/tv@main/0707.json"
+    },
+    {
+      "name": "ouyushan聚合(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/ouyushan/tvbox-cfg@main/config/multi.json"
+    }
+  ]
+}
