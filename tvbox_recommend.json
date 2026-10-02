@@ -1,0 +1,21 @@
+{
+  "说明": "推荐点播多仓接口（2026-10-02 全网+GitHub双通道实测更新）。字段名以播放器配置规范为准；源属网友维护，随时可能失效。",
+  "urls": [
+    {
+      "name": "小盒子多仓(推荐,已聚合多源)",
+      "url": "http://xhztv.top/dc"
+    },
+    {
+      "name": "挺好分享多仓",
+      "url": "http://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "name": "XJ多仓(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/xiongjian83/TvBox@main/XJ.json"
+    },
+    {
+      "name": "ouyushan聚合(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/ouyushan/tvbox-cfg@main/config/multi.json"
+    }
+  ]
+}
