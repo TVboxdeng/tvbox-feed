@@ -1,0 +1,29 @@
+{
+  "说明": "【一个接口全搞定 2026-10-02】含点播4个 + 直播2个。",
+  "urls": [
+    {
+      "name": "点播·小盒子多仓(推荐,已聚合多源)",
+      "url": "http://xhztv.top/dc"
+    },
+    {
+      "name": "点播·挺好分享多仓",
+      "url": "http://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "name": "点播·XJ多仓(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/xiongjian83/TvBox@main/XJ.json"
+    },
+    {
+      "name": "点播·ouyushan聚合(GitHub)",
+      "url": "https://cdn.jsdelivr.net/gh/ouyushan/tvbox-cfg@main/config/multi.json"
+    },
+    {
+      "name": "直播·iptv-api聚合(Guovin)",
+      "url": "https://cdn.jsdelivr.net/gh/Guovin/iptv-api@gd/output/result.m3u"
+    },
+    {
+      "name": "直播·YueChan Live",
+      "url": "https://cdn.jsdelivr.net/gh/YueChan/Live@main/Global.m3u"
+    }
+  ]
+}
